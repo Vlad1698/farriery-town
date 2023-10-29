@@ -6,12 +6,12 @@
 		"texts" :
 		{
 			"name" : "Maximus",
-			"biography" : "Niewiele wiadomo o prawej rece krola Deyji - kraza plotki, ze jego twarz zostala zdeformowana przez technologie Niebianskiej Kuzni. Nikt jednak nie moze podwazyc jego mistrzowskich wrecz zdolnosci taktycznych.",
+			"biography" : "Little is known about King Deyja's right hand - it is rumored that his face was deformed by the technology of the Celestial Forge. However, no one can question his masterful combat skills",
 			"specialty" :
 			{
-				"description" : "{Tactics}\r\n\r\nReceives a 5% per level bonus to Tactics skill.",
-				"tooltip" : "Secondary Skill Bonus: Tactics",
-				"name" : "Tactics"
+				"description" : "{Offence}\r\n\r\nReceives a 5% per level bonus to Offence skill.",
+				"tooltip" : "Primary Skill Bonus: Offence",
+				"name" : "Offence"
 			}
 		},
 		"images" :
